@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="" content="width=device-width, initial-scale=1.0">
     <title>My Resume</title>
 </head>
 <body>
@@ -10,7 +11,7 @@
 <hr />
 
 <h1>Shaik Abdul Sameer</h1>
-<img src = "./20240613_183539.jpg/" width = "150" height = "200" alt = "picture of me"/>
+<img src = "../My Projects/Developer landing/images/20240613_183539.jpg" width = "200" height = "250" alt = "picture of me"/>
 <h2>Aspiring Web Developer | Coding Enthusiast</h2>
 
 <h4>📍 Hyderabad, India</h4>
